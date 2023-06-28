@@ -1,3 +1,3 @@
-# catena90
-**DOES NOT PASS TESTS**
+# Catena - Fortran90
 Fortran implementation of Catena
+**DOES NOT PASS TESTS**
